@@ -8,7 +8,7 @@
 - HTML 
 - CSS
 - JS
-- Git e Github
+- Git & Github
 
 ## Deploy
 
